@@ -61,7 +61,7 @@ Before running the app locally, ensure you have the following installed:
 
 1. Clone the repository to your local machine:
 
-```bash
+```
 git clone https://github.com/BBilgili15/smart_savers
 ```
 
@@ -73,13 +73,13 @@ cd your-repo
 
 3. Install dependencies:
 
-```bash
+```
 npm install
 ```
 
 4. Start the Expo development server:
 
-```bash
+```
 npm start
 ```
 
