@@ -4,6 +4,23 @@
 
 [Please watch a demonstration of our app by clicking here](https://www.youtube.com/watch?v=K_ngJpReB6Q)
 
+## Contributors
+
+- [Zhu Meng](https://www.linkedin.com/in/zhu-m-scott-0b939a245/)
+- [Ben Bilgili](https://www.linkedin.com/in/benan-bilgili-a6a2b2196/)
+- [Sam Bartram](https://www.linkedin.com/in/sambartram/)
+
+## Our Tech Stack
+### Frontend:
+- React Native (Expo Go)
+- TypeScript
+- Lottie (for animations)
+- Victory Pie Charts (for interactive pie charts)
+### Backend:
+- Java (Spring Framework)
+### Database:
+- PostgreSQL
+
 ## Our Brief
 
 We have created a money management mobile application for 8 to 12 years olds that would teach them financial literacy. The app includes the following features:
@@ -37,17 +54,6 @@ As an extension to the core features, the app provides a visual breakdown of use
 |                      Top Level Badge                       |               Balance and Transaction Buttons                |                       Savings Pockets                        |                      Updated Savings Pocket                      |
 |  ![Top Level Badge](./ReadMePics/TopPointLevelBadge.png)   | ![Balance and Transaction Buttons](./ReadMePics/Balance.png) |      ![Savings Pockets](./ReadMePics/PocketsScreen.png)      | ![Updated Savings Pocket](./ReadMePics/UpdateSavingsPockets.png) |
 
-
-## Our Tech Stack
-### Frontend:
-- React Native (Expo Go)
-- TypeScript
-- Lottie (for animations)
-- Victory Pie Charts (for interactive pie charts)
-### Backend:
-- Java (Spring Framework)
-### Database:
-- PostgreSQL
 
 ## Prerequisites
 
@@ -132,12 +138,6 @@ In your Java Spring backend project, you'll need to configure Firebase Admin SDK
 [Firebase Admin SDK Setup Guide for Java](https://firebase.google.com/docs/admin/setup#java)
 
 Once you have set up the Firebase Admin SDK in your Java backend, you can use the Firebase Admin SDK APIs to interact with your Firebase project. For example, you can use it to authenticate users, access the Firebase Realtime Database, Cloud Firestore, and other Firebase services from your Java Spring application.
-
-## Contributors
-
-- [Zhu Meng](https://www.linkedin.com/in/zhu-m-scott-0b939a245/)
-- [Ben Bilgili](https://www.linkedin.com/in/benan-bilgili-a6a2b2196/)
-- [Sam Bartram](https://www.linkedin.com/in/sambartram/)
 
 ## Additional Libraries
 
